@@ -1,5 +1,5 @@
 # Work instruction for Git
-
+*Bekzhigitova Yerkezhan's work*
 * git init - инициализация локального репозитория 
 
 * git status - получение информации о текущем состоянии 
@@ -15,3 +15,19 @@
 * git checkout master - вернуться к актуальному состоянию 
 
 * git diff - увидеть разницу между текущим файлом и закоммиченым файлом
+
+---
+# Markdown syntax 
+
+** or _ _ (*italick*) - курсив
+
+** ** or __ __ (**bold**) - полужирный
+
+*** *** (***italick-bold***) - полужирный курсив
+
+~~ ~~ (~~crossed out~~) - зачёркнутый 
+
+"*" (unnumbered string) - ненумерованная строка
+
+"1." (numbered string) - нумерованная строка
+ 
