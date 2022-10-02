@@ -58,3 +58,16 @@ LOL, it was a joke, no one can do better than me
 - + * WOW
 
 ---
+
+# Other WOW things
+[led zeppelin](https://www.youtube.com/watch?v=HQmmM_qwG4k)
+
+![Qawaii cat](https://www.meme-arsenal.com/memes/ecdaf55fffca12b0feaca5b3431acdff.jpg)
+
+## U need to smile =)
+
+![another qawaii cat](/IMG_20150716_160435.jpg)
+
+## Kek
+
+![kek](https://img2.joyreactor.cc/pics/post/%D0%BF%D0%B5%D1%81%D0%BE%D1%87%D0%BD%D0%B8%D1%86%D0%B0-%D0%BA%D0%BE%D1%82%D1%8D-it-%D1%8E%D0%BC%D0%BE%D1%80-geek-4936055.jpeg)
