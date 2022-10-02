@@ -30,4 +30,17 @@
 "*" (unnumbered string) - ненумерованная строка
 
 "1." (numbered string) - нумерованная строка
- 
+
+---
+## Example 
+
+My home task a very **high** quality work cuz I know *why i'm doing it*
+
+### I wanna be better in ***programming***
+
+##### And I know that I can, maybe someone make ~~the same~~ as me, but I shoud show
+
+###### what stuff I can do 
+
+LOL, it was a joke, no one can do better than me
+---
