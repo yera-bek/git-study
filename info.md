@@ -44,3 +44,17 @@ My home task a very **high** quality work cuz I know *why i'm doing it*
 
 LOL, it was a joke, no one can do better than me
 ---
+
+> I'm doing great I think
+>
+> so I shoud take 100% points for this work
+>
+>> If u ask me "why?"
+>> -
+> - becouse I can
+>
+> - and I'm strong and independent woman (**kek**)
+
+- + * WOW
+
+---
