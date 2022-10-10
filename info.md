@@ -20,6 +20,7 @@
 
 * **git branch <banch_name>** - создание новой ветки
 
+* **git checkout <branch_name>** - переход к другой ветке
 
 ---
 # Markdown syntax 
