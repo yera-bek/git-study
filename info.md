@@ -22,6 +22,8 @@
 
 * **git checkout <branch_name>** - переход к другой ветке
 
+* **git branch -d <branch_name>** - удаление ветки
+
 ---
 # Markdown syntax 
 
