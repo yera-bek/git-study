@@ -24,6 +24,9 @@
 
 * **git branch -d <branch_name>** - удаление ветки
 
+* **git log --graph** - информация о слиянии
+
+
 ---
 # Markdown syntax 
 
